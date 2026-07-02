@@ -2,8 +2,7 @@
 
 **Ragnify** is a powerful **RAG (Retrieval Augmented Generation)** based offline AI tool built to deliver **accurate, document-grounded answers** from your PDF files. Designed for **complete offline use**, it integrates **OCR capabilities** and **LLM (LLaMA 2 7B GGUF)** models to provide highly relevant, hallucination-free answers.
 
-> 🔧 Developed by **Bhavya Jain** and **Aryan Singh**  
-> 🧑‍🏫 Guided by **Mr. Ankit Pratap Sir** during our internship at **Tech Mahindra**  
+> 🔧 Developed by **Lakshya Arora** and **Bhavya Jain**   
 
 ---
 
@@ -67,5 +66,4 @@ Ragnify/
 🧬 Fine-tune LLM for legal, medical, or research domains
 
 💬 Contact
-📧 Email: bhavyajain7900@gmail.com
-linkedin:https://www.linkedin.com/in/bhavya-jain-b90960245/
+📧 Email: lakshyaaroraa@gmail.com
